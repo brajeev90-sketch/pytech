@@ -62,6 +62,7 @@ const HomePage = () => {
           <HeroSection />
           <ServicesSection services={services} loading={loading} />
           <AboutSection />
+          <PartnersSection />
           <StatsSection />
           <TestimonialsSection testimonials={testimonials} loading={loading} />
           <PortfolioSection portfolio={portfolio} loading={loading} />
