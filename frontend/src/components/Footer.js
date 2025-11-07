@@ -84,16 +84,16 @@ const Footer = () => {
               Your trusted digital partner for branding, web design, app development, and digital marketing services across India.
             </p>
             <div className="flex space-x-4">
-              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-400 transition-colors" data-testid="social-facebook">
+              <a href="https://www.facebook.com/profile.php?id=61583324489028" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-400 transition-colors" data-testid="social-facebook">
                 <Facebook className="h-5 w-5" />
               </a>
-              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-400 transition-colors" data-testid="social-twitter">
+              <a href="https://x.com/PyTech_Digital" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-400 transition-colors" data-testid="social-twitter">
                 <Twitter className="h-5 w-5" />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-400 transition-colors" data-testid="social-linkedin">
+              <a href="https://www.linkedin.com/company/109582123" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-400 transition-colors" data-testid="social-linkedin">
                 <Linkedin className="h-5 w-5" />
               </a>
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-400 transition-colors" data-testid="social-instagram">
+              <a href="https://www.instagram.com/pytech_digital/" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-400 transition-colors" data-testid="social-instagram">
                 <Instagram className="h-5 w-5" />
               </a>
             </div>
